@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Magic Wumpus World (MWW) assignment for CS F407. The environment is a fixed 4×4 grid where an agent must discover a *safe path* from the start cell A (1,1) to the goal G (4,4) while avoiding a stochastic Wumpus hazard. The goal of the assignment is to implement and compare TD-control algorithms, propose an improved TD variant, and produce a report with experimental analysis.
+This repository contains the Magic Wumpus World (MWW). The environment is a fixed 4×4 grid where an agent must discover a *safe path* from the start cell A (1,1) to the goal G (4,4) while avoiding a stochastic Wumpus hazard. The goal of the assignment is to implement and compare TD-control algorithms, propose an improved TD variant, and produce a report with experimental analysis.
 
 ---
 
